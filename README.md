@@ -1,4 +1,4 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Portafolio de proyectos
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
@@ -10,23 +10,26 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![image](https://github.com/CeciAmaro/PortafolioProyectos/assets/98362297/73559753-b80d-4e02-a3c8-b63294735250)
+
+Sobre mí:
+
+![image](https://github.com/CeciAmaro/PortafolioProyectos/assets/98362297/c84a0cfb-43d8-41e5-8066-cb8372588561)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![image](https://github.com/CeciAmaro/PortafolioProyectos/assets/98362297/89a1f106-997e-470a-9031-b7e5ad5d14d5)
+
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![image](https://github.com/CeciAmaro/PortafolioProyectos/assets/98362297/de76f681-dcc7-4e9c-8b2f-b7169c6c8bdf)
 
-Testimonios:
-
-![Testimonios](imagenes/readme/screenshot4.png)
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![image](https://github.com/CeciAmaro/PortafolioProyectos/assets/98362297/c053f943-75f6-4859-9afd-10f08dd01dbf)
+
 
 ## Tecnologías
 
